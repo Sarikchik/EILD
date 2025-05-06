@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-BOT_TOKEN = "7795562395:AAFtIpNFBSCP8vSQv4j5iUxNoAOFcvWn6Ow"
+BOT_TOKEN = ""
 CHANNEL_IDS = [
     "-1002623602999",
     "-1002597949465",
